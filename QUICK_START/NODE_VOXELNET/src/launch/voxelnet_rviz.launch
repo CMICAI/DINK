@@ -1,0 +1,8 @@
+<launch>
+
+
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find voxelnet_ros)/rviz/node_voxelnet.rviz" />
+
+</launch>
+
+

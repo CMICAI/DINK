@@ -1,0 +1,8 @@
+prefix=/home/dink/QUICK_START/NODE_DEEPLABV3SEG_CUSTER/devel
+
+Name: deeplabv3seg_ros
+Description: Description of deeplabv3seg_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dink/QUICK_START/NODE_DEEPLABV3SEG_CUSTER/devel/lib 
+Requires: 

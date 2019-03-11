@@ -1,0 +1,8 @@
+prefix=/home/dink/QUICK_START/NODE_SQUEEZESEG_CLUSTER/install
+
+Name: squeezeseg_ros
+Description: Description of squeezeseg_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dink/QUICK_START/NODE_SQUEEZESEG_CLUSTER/install/lib 
+Requires: 

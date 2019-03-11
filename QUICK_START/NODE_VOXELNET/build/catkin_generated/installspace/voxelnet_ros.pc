@@ -1,0 +1,8 @@
+prefix=/home/dink/QUICK_START/NODE_VOXELNET/install
+
+Name: voxelnet_ros
+Description: Description of voxelnet_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dink/QUICK_START/NODE_VOXELNET/install/lib 
+Requires: 

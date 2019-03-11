@@ -1,0 +1,11 @@
+<launch>
+
+	<node pkg="voxelnet_ros" type="pub_kitti_point_cloud.py" name="pub_kitti_point_cloud" output="screen" />
+
+	<node pkg="voxelnet_ros" type="voxelnet_ros.py" name="voxelnet_ros_node" output="screen" />
+
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find squeezeseg_ros)/rviz/squeezeseg_ros.rviz" />
+
+</launch>
+
+
