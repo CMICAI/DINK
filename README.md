@@ -51,7 +51,6 @@ DINK is a new generation of practical application of automatic driving framework
 
 # [快速使用| Quick Start](https://github.com/FPAI/DINK/wiki/HOME)
 
-![INSTALL DINK](img/launch.gif)
 
 ***
 
