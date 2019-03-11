@@ -1,0 +1,5 @@
+# DINK MAIN CONTRIBUTOR
+
+Li Hao
+
+Xu Chen Jie
