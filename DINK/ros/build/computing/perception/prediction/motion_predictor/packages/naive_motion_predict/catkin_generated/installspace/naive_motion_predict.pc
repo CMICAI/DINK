@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: naive_motion_predict
+Description: Description of naive_motion_predict
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp sensor_msgs dink_for_msgs tf imm_ukf_pda_track

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: amathutils_lib
+Description: Description of amathutils_lib
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib -lamathutils_lib
+Requires: roscpp dink_for_msgs

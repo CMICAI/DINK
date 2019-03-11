@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>platform_automation_msgs</name>
+  <version>2.0.0</version>
+  <description>Messages for vehicle automation</description>
+  <license>MIT</license>
+
+  <url type="repository">https://github.com/astuff/platform_automation_msgs</url>
+  <url type="bugtracker">https://github.com/astuff/platform_automation_msgs/issues</url>
+
+  <maintainer email="software@autonomoustuff.com">AutonomouStuff Software Development Team</maintainer>
+  <author email="dstanek@autonomoustuff.com">Daniel Stanek</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>module_comm_msgs</exec_depend>
+  <exec_depend>perception_msgs</exec_depend>
+  <exec_depend>platform_comm_msgs</exec_depend>
+  <exec_depend>radar_msgs</exec_depend>
+
+  <export>
+    <metapackage />
+  </export>
+</package>

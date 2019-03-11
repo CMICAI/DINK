@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: libvectormap
+Description: Description of libvectormap
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/common/libvectormap/include -I/usr/include/eigen3
+Libs: -L/home/dink/DINK/ros/devel/lib -llibvectormap
+Requires: vector_map

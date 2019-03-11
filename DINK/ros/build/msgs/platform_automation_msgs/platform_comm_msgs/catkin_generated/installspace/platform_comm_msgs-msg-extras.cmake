@@ -1,0 +1,2 @@
+set(platform_comm_msgs_MESSAGE_FILES "msg/BlindSpotIndicators.msg;msg/BrakeCommand.msg;msg/BrakeFeedback.msg;msg/CabinReport.msg;msg/CurvatureFeedback.msg;msg/DriverCommands.msg;msg/GearCommand.msg;msg/GearFeedback.msg;msg/Gear.msg;msg/HillStartAssist.msg;msg/SpeedPedals.msg;msg/SteeringCommand.msg;msg/SteeringFeedback.msg;msg/SteerWheel.msg;msg/ThrottleCommand.msg;msg/ThrottleFeedback.msg;msg/TurnSignalCommand.msg;msg/UserInputADAS.msg;msg/UserInputMedia.msg;msg/UserInputMenus.msg")
+set(platform_comm_msgs_SERVICE_FILES "")

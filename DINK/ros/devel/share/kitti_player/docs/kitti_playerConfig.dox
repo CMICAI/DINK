@@ -1,0 +1,15 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~loop_rate" : \b [double] Publish frequency min: 0.0, default: 1.0, max: 10.0
+- \b "~start" : \b [bool] Select to start playback min: False, default: True, max: True
+- \b "~continuous" : \b [bool] Select to play every frame at loop rate min: False, default: False, max: True
+- \b "~publish" : \b [bool] Publish a single frame min: False, default: False, max: True
+- \b "~generateGroundtruth" : \b [bool] If true the groundtruth is published min: False, default: True, max: True
+- \b "~generateUncertain" : \b [bool] If true the uncertain pose is published min: False, default: True, max: True
+- \b "~alphaPose" : \b [double] standard deviation of the pose min: 0.0, default: 0.0, max: 1.0
+- \b "~alphaOrientation" : \b [double] standard deviaton of the orientation min: 0.0, default: 0.0, max: 1.0
+- \b "~sequence" : \b [int] Sequence to load min: 0, default: 1, max: 21
+- \b "~exitIfNotFound" : \b [bool] If true it exits if no file is found min: False, default: False, max: True
+

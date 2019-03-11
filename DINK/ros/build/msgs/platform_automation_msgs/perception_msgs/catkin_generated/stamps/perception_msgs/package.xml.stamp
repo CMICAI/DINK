@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>perception_msgs</name>
+  <version>2.0.0</version>
+  <description>Generic Abstracted Messages from Perception Modalities</description>
+  <license>MIT</license>
+
+  <maintainer email="software@autonomoustuff.com">AutonomouStuff Software Development Team</maintainer>
+  <author email="dstanek@autonomoustuff.com">Daniel Stanek</author>
+  <author email="jwhitley@autonomoustuff.com">Josh Whitley</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>shape_msgs</depend>
+  <depend>radar_msgs</depend>
+
+  <exec_depend>message_runtime</exec_depend>
+</package>

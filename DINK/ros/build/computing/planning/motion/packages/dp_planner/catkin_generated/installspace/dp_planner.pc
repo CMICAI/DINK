@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: dp_planner
+Description: Description of dp_planner
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp geometry_msgs dink_for_can_msgs map_file pcl_conversions pcl_ros sensor_msgs tf jsk_recognition_msgs op_utility op_planner op_simu waypoint_follower vector_map_msgs

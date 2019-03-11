@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: diag_msgs
+Description: Description of diag_msgs
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: std_msgs message_runtime

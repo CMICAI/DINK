@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dink/DINK/ros/src/can/socketcan_interface/include/socketcan_interface/FastDelegate.h
+memory.h
+-
+
+/home/dink/DINK/ros/src/can/socketcan_interface/include/socketcan_interface/interface.h
+boost/array.hpp
+-
+boost/system/error_code.hpp
+-
+boost/shared_ptr.hpp
+-
+FastDelegate.h
+/home/dink/DINK/ros/src/can/socketcan_interface/include/socketcan_interface/FastDelegate.h
+iostream
+-
+boost/thread/mutex.hpp
+-
+
+/home/dink/DINK/ros/src/can/socketcan_interface/include/socketcan_interface/string.h
+interface.h
+/home/dink/DINK/ros/src/can/socketcan_interface/include/socketcan_interface/interface.h
+sstream
+-
+
+/home/dink/DINK/ros/src/can/socketcan_interface/src/string.cpp
+socketcan_interface/string.h
+-
+

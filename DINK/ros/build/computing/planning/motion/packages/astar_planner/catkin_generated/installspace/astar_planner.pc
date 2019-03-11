@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: astar_planner
+Description: Description of astar_planner
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp std_msgs tf waypoint_follower dink_for_msgs vector_map

@@ -1,0 +1,12 @@
+-I/home/dink/DINK/ros/src/util/packages/RobotSDK/rosinterface/include
+-I/opt/ros/kinetic/include
+-I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/home/dink/DINK/ros/src/util/packages/RobotSDK/rosinterface
+-I/home/dink/DINK/ros/build/util/packages/RobotSDK/rosinterface
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="rosinterface"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/dink/DINK/ros/build/util/packages/RobotSDK/rosinterface/include/rosinterface/moc_rosinterface.cpp
+/home/dink/DINK/ros/src/util/packages/RobotSDK/rosinterface/include/rosinterface/rosinterface.h

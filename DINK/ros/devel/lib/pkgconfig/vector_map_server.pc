@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: vector_map_server
+Description: Description of vector_map_server
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/devel/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: message_runtime roscpp geometry_msgs dink_for_msgs vector_map_msgs vector_map

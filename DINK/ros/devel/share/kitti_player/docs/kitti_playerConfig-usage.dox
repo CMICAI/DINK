@@ -1,0 +1,16 @@
+\subsubsection usage Usage
+\verbatim
+<node name="kitti_player" pkg="kitti_player" type="kitti_player">
+  <param name="loop_rate" type="double" value="1.0" />
+  <param name="start" type="bool" value="True" />
+  <param name="continuous" type="bool" value="False" />
+  <param name="publish" type="bool" value="False" />
+  <param name="generateGroundtruth" type="bool" value="True" />
+  <param name="generateUncertain" type="bool" value="True" />
+  <param name="alphaPose" type="double" value="0.0" />
+  <param name="alphaOrientation" type="double" value="0.0" />
+  <param name="sequence" type="int" value="1" />
+  <param name="exitIfNotFound" type="bool" value="False" />
+</node>
+\endverbatim
+

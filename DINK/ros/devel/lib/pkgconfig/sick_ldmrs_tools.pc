@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: sick_ldmrs_tools
+Description: Description of sick_ldmrs_tools
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp visualization_msgs sick_ldmrs_msgs

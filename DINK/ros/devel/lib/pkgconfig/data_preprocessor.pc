@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: data_preprocessor
+Description: Description of data_preprocessor
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: 

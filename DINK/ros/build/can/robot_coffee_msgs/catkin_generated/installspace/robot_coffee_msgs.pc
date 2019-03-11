@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: robot_coffee_msgs
+Description: Description of robot_coffee_msgs
+Version: 0.0.0
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: scan2image
+Description: Description of scan2image
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs dink_for_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: op_simulation_package
+Description: Description of op_simulation_package
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp geometry_msgs dink_for_msgs map_file op_utility op_planner op_simu op_ros_helpers waypoint_follower

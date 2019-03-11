@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: object_map
+Description: Description of object_map
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp pcl_ros pcl_conversions tf sensor_msgs nav_msgs dink_for_msgs vector_map

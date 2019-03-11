@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: obj_db
+Description: Description of obj_db
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp gnss visualization_msgs dink_for_can_msgs

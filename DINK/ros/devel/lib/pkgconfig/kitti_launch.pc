@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: kitti_launch
+Description: Description of kitti_launch
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: kitti_box_publisher

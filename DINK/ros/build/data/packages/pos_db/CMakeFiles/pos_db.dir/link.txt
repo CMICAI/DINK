@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -Wall  -O3 -DNDEBUG  -Wl,--no-undefined -shared -Wl,-soname,libpos_db.so -o /home/dink/DINK/ros/devel/lib/libpos_db.so CMakeFiles/pos_db.dir/lib/pos_db/SendData.cpp.o CMakeFiles/pos_db.dir/lib/pos_db/util.cpp.o -lssh2 

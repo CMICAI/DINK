@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: libdpm_ttic
+Description: Description of libdpm_ttic
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/perception/detection/vision_detector/libs/dpm_ttic/include
+Libs: -L/home/dink/DINK/ros/devel/lib -llibdpm_ttic
+Requires: 

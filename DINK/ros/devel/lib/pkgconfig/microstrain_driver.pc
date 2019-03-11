@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: microstrain_driver
+Description: Description of microstrain_driver
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/sensing/drivers/imu/packages/microstrain/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp cmake_modules tf2 tf2_ros std_msgs std_srvs geometry_msgs sensor_msgs nav_msgs

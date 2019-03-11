@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: ff_waypoint_follower
+Description: Description of ff_waypoint_follower
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/planning/motion/packages/ff_waypoint_follower/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp geometry_msgs runtime_manager map_file op_utility op_planner op_simu waypoint_follower

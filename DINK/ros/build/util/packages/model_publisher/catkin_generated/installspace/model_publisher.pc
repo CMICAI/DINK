@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: model_publisher
+Description: Description of model_publisher
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: 

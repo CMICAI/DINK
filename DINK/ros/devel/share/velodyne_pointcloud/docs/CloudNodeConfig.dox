@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~min_range" : \b [double] min range to publish min: 0.1, default: 0.9, max: 10.0
+- \b "~max_range" : \b [double] max range to publish min: 0.1, default: 130.0, max: 200.0
+- \b "~view_direction" : \b [double] angle defining the center of view min: -3.14159265359, default: 0.0, max: 3.14159265359
+- \b "~view_width" : \b [double] angle defining the view width min: 0.0, default: 6.28318530718, max: 6.28318530718
+

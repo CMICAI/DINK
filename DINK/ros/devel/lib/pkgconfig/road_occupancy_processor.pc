@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: road_occupancy_processor
+Description: Description of road_occupancy_processor
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp tf sensor_msgs nav_msgs pcl_conversions pcl_ros grid_map_ros grid_map_cv grid_map_msgs vector_map

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: vlg22c_cam
+Description: Description of vlg22c_cam
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib -lvlg22c_cam
+Requires: 

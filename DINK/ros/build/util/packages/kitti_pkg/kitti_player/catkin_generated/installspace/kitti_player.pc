@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: kitti_player
+Description: Description of kitti_player
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: dynamic_reconfigure

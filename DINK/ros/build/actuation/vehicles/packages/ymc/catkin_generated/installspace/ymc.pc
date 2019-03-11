@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: ymc
+Description: Description of ymc
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp geometry_msgs rosconsole

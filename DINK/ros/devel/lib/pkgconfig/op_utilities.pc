@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: op_utilities
+Description: Description of op_utilities
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/planning/motion/packages/op_utilities/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp geometry_msgs map_file op_utility op_planner op_ros_helpers pcl_conversions vector_map_msgs

@@ -1,0 +1,31 @@
+
+(cl:in-package :asdf)
+
+(defsystem "custom_msgs-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils :geometry_msgs-msg
+               :std_msgs-msg
+)
+  :components ((:file "_package")
+    (:file "BaroSensorSample" :depends-on ("_package_BaroSensorSample"))
+    (:file "_package_BaroSensorSample" :depends-on ("_package"))
+    (:file "GnssSensorSample" :depends-on ("_package_GnssSensorSample"))
+    (:file "_package_GnssSensorSample" :depends-on ("_package"))
+    (:file "ImuSensorSample" :depends-on ("_package_ImuSensorSample"))
+    (:file "_package_ImuSensorSample" :depends-on ("_package"))
+    (:file "Internal" :depends-on ("_package_Internal"))
+    (:file "_package_Internal" :depends-on ("_package"))
+    (:file "XsensQuaternion" :depends-on ("_package_XsensQuaternion"))
+    (:file "_package_XsensQuaternion" :depends-on ("_package"))
+    (:file "baroSample" :depends-on ("_package_baroSample"))
+    (:file "_package_baroSample" :depends-on ("_package"))
+    (:file "gnssSample" :depends-on ("_package_gnssSample"))
+    (:file "_package_gnssSample" :depends-on ("_package"))
+    (:file "orientationEstimate" :depends-on ("_package_orientationEstimate"))
+    (:file "_package_orientationEstimate" :depends-on ("_package"))
+    (:file "positionEstimate" :depends-on ("_package_positionEstimate"))
+    (:file "_package_positionEstimate" :depends-on ("_package"))
+    (:file "sensorSample" :depends-on ("_package_sensorSample"))
+    (:file "_package_sensorSample" :depends-on ("_package"))
+    (:file "velocityEstimate" :depends-on ("_package_velocityEstimate"))
+    (:file "_package_velocityEstimate" :depends-on ("_package"))
+  ))

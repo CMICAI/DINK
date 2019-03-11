@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: vectacam
+Description: Description of vectacam
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib -lvectacam
+Requires: 

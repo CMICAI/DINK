@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: way_planner
+Description: Description of way_planner
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/planning/mission/packages/way_planner/include
+Libs: -L/home/dink/DINK/ros/devel/lib -lway_planner
+Requires: geometry_msgs vector_map_msgs roscpp rospy std_msgs waypoint_follower op_utility op_planner op_simu

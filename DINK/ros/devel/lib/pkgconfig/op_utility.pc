@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: op_utility
+Description: Description of op_utility
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/planning/common/lib/openplanner/op_utility/include
+Libs: -L/home/dink/DINK/ros/devel/lib -lop_utility
+Requires: vector_map_msgs vector_map_server

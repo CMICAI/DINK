@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/dink_for_config_msgs_generate_messages_py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigLaneRule.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigWaypointLoader.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigPedestrianDpm.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigPedestrianKf.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigPedestrianFusion.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigPlannerSelector.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigLaneSelect.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigWaypointFollower.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigCarDpm.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigRcnn.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigTwistFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigVoxelGridFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigRingGroundFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigCarKf.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigApproximateNdtMapping.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigPoints2Polygon.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigSsd.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigRandomFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigNdtMapping.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigDistanceFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigLatticeVelocitySet.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigLaneStop.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigNdt.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigDecisionMaker.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigRingFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigICP.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigVelocitySet.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigCompareMapFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigCarFusion.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigRayGroundFilter.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/_ConfigNdtMappingOutput.py"
+  "/home/dink/DINK/ros/devel/lib/python2.7/dist-packages/dink_for_config_msgs/msg/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/dink_for_config_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: lidar_kf_track
+Description: Description of lidar_kf_track
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: pcl_ros roscpp std_msgs dink_for_msgs tf jsk_recognition_msgs jsk_rviz_plugins

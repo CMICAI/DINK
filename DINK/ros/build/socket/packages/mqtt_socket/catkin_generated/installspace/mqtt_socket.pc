@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: mqtt_socket
+Description: Description of mqtt_socket
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp roslib std_msgs dink_for_msgs dink_for_can_msgs tablet_socket_msgs

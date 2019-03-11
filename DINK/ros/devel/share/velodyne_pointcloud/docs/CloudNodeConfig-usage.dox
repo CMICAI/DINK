@@ -1,0 +1,10 @@
+\subsubsection usage Usage
+\verbatim
+<node name="cloud_node" pkg="velodyne_pointcloud" type="cloud_node">
+  <param name="min_range" type="double" value="0.9" />
+  <param name="max_range" type="double" value="130.0" />
+  <param name="view_direction" type="double" value="0.0" />
+  <param name="view_width" type="double" value="6.28318530718" />
+</node>
+\endverbatim
+

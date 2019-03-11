@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: range_vision_fusion
+Description: Description of range_vision_fusion
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: cv_bridge sensor_msgs image_transport roscpp tf dink_for_msgs jsk_recognition_utils eigen_conversions tf_conversions jsk_topic_tools image_geometry jsk_topic_tools visualization_msgs

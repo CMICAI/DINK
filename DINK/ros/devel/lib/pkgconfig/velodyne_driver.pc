@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: velodyne_driver
+Description: Description of velodyne_driver
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/devel/include -I/home/dink/DINK/ros/src/sensing/drivers/lidar/packages/velodyne/velodyne_driver/include
+Libs: -L/home/dink/DINK/ros/devel/lib -lvelodyne_input
+Requires: diagnostic_updater dynamic_reconfigure nodelet roscpp tf velodyne_msgs

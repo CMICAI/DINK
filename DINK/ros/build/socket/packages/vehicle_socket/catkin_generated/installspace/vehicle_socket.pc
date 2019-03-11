@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: vehicle_socket
+Description: Description of vehicle_socket
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp std_msgs dink_for_can_msgs dink_for_msgs tablet_socket_msgs

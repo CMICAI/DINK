@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: calibration_camera_lidar
+Description: Description of calibration_camera_lidar
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp rosconsole std_msgs sensor_msgs glviewer rosinterface cv_bridge pcl_ros image_transport dink_for_msgs

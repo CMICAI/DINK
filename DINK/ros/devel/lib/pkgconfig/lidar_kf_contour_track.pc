@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: lidar_kf_contour_track
+Description: Description of lidar_kf_contour_track
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp dink_for_msgs tf jsk_recognition_msgs op_ros_helpers cv_bridge

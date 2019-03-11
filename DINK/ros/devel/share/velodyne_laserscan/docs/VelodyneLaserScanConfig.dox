@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~ring" : \b [int] Ring to extract as laser scan (-1 default) min: -1, default: -1, max: 31
+- \b "~resolution" : \b [double] Laser scan angular resolution (rad) min: 0.001, default: 0.007, max: 0.05
+

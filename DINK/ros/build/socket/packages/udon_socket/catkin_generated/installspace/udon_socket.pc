@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: udon_socket
+Description: Description of udon_socket
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib -ludon
+Requires: tablet_socket_msgs

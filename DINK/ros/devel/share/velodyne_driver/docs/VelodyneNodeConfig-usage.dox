@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="velodyne_node" pkg="velodyne_driver" type="velodyne_node">
+  <param name="time_offset" type="double" value="0.0" />
+</node>
+\endverbatim
+

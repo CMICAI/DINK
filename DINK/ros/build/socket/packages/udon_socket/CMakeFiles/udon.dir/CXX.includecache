@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dink/DINK/ros/src/socket/packages/udon_socket/include/udon_socket/udon.hpp
+cstdint
+-
+sys/types.h
+-
+
+/home/dink/DINK/ros/src/socket/packages/udon_socket/lib/udon_socket/udon.cpp
+cstddef
+-
+cstring
+-
+sys/socket.h
+-
+udon_socket/udon.hpp
+-
+

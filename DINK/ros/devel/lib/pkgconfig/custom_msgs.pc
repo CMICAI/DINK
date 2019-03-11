@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: custom_msgs
+Description: Description of custom_msgs
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/devel/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: rospy roscpp std_msgs sensor_msgs message_generation message_runtime

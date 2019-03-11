@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: lidar_fake_perception
+Description: Description of lidar_fake_perception
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/perception/detection/lidar_detector/packages/lidar_fake_perception/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: roscpp tf tf_conversions pcl_ros sensor_msgs geometry_msgs dink_for_msgs

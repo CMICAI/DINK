@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: tf_server
+Description: Description of tf_server
+Version: 0.0.0
+Cflags: -I/home/dink/DINK/ros/devel/include
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime sensor_msgs

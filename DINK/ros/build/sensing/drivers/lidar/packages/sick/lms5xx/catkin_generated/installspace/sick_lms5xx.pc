@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: sick_lms5xx
+Description: Description of sick_lms5xx
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: roscpp tf

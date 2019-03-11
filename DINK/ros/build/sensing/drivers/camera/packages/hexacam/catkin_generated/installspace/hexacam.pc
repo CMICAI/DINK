@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: hexacam
+Description: Description of hexacam
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib -lhexacam
+Requires: 

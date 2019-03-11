@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: multi_lidar_calibrator
+Description: Description of multi_lidar_calibrator
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/devel/lib 
+Requires: std_msgs sensor_msgs geometry_msgs

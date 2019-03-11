@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -Wall   -O3 -DNDEBUG  -Wl,--no-undefined  -shared -Wl,-soname,libget_file.so -o /home/dink/DINK/ros/devel/lib/libget_file.so CMakeFiles/get_file.dir/lib/map_file/get_file.cpp.o -lcurl 

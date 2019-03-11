@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: graph_tools
+Description: Description of graph_tools
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: 

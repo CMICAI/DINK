@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: waypoint_maker
+Description: Description of waypoint_maker
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: gnss roscpp std_msgs geometry_msgs nav_msgs tf waypoint_follower vector_map lane_planner dink_for_msgs

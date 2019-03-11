@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/devel
+
+Name: gnss
+Description: Description of gnss
+Version: 1.9.1
+Cflags: -I/home/dink/DINK/ros/src/computing/perception/localization/lib/gnss/include
+Libs: -L/home/dink/DINK/ros/devel/lib -lgnss
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: socketcan_bridge
+Description: Description of socketcan_bridge
+Version: 0.7.6
+Cflags: -I/home/dink/DINK/ros/install/include
+Libs: -L/home/dink/DINK/ros/install/lib -lsocketcan_to_topic -ltopic_to_socketcan
+Requires: can_msgs roscpp socketcan_interface

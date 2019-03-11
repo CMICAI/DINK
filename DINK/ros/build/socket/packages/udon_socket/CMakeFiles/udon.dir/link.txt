@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -Wall  -O3 -DNDEBUG  -Wl,--no-undefined -shared -Wl,-soname,libudon.so -o /home/dink/DINK/ros/devel/lib/libudon.so CMakeFiles/udon.dir/lib/udon_socket/udon.cpp.o 

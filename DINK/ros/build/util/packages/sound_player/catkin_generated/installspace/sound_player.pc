@@ -1,0 +1,8 @@
+prefix=/home/dink/DINK/ros/install
+
+Name: sound_player
+Description: Description of sound_player
+Version: 1.9.1
+Cflags: 
+Libs: -L/home/dink/DINK/ros/install/lib 
+Requires: rospy std_msgs
