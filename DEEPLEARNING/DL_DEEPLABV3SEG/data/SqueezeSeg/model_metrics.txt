@@ -1,0 +1,12 @@
+Number of parameter by layer:
+	conv_pre: 138
+	total: 138
+
+Activation size by layer:
+	input: 98304
+	conv_pre: 98304
+	total: 196608
+
+Number of flops by layer:
+	conv_pre: 9142272
+	total: 9142272
