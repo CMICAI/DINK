@@ -1,9 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /home/dink/DINK/ros/src/can/socketcan_bridge
-# Build directory: /home/dink/DINK/ros/build/can/socketcan_bridge
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-add_test(_ctest_socketcan_bridge_gtest_test_conversion "/home/dink/DINK/ros/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/dink/DINK/ros/build/test_results/socketcan_bridge/gtest-test_conversion.xml" "--return-code" "/home/dink/DINK/ros/devel/lib/socketcan_bridge/test_conversion --gtest_output=xml:/home/dink/DINK/ros/build/test_results/socketcan_bridge/gtest-test_conversion.xml")
-add_test(_ctest_socketcan_bridge_rostest_test_to_socketcan.test "/home/dink/DINK/ros/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/dink/DINK/ros/build/test_results/socketcan_bridge/rostest-test_to_socketcan.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/dink/DINK/ros/src/can/socketcan_bridge --package=socketcan_bridge --results-filename test_to_socketcan.xml --results-base-dir \"/home/dink/DINK/ros/build/test_results\" /home/dink/DINK/ros/src/can/socketcan_bridge/test/to_socketcan.test ")
-add_test(_ctest_socketcan_bridge_rostest_test_to_topic.test "/home/dink/DINK/ros/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/dink/DINK/ros/build/test_results/socketcan_bridge/rostest-test_to_topic.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/dink/DINK/ros/src/can/socketcan_bridge --package=socketcan_bridge --results-filename test_to_topic.xml --results-base-dir \"/home/dink/DINK/ros/build/test_results\" /home/dink/DINK/ros/src/can/socketcan_bridge/test/to_topic.test ")

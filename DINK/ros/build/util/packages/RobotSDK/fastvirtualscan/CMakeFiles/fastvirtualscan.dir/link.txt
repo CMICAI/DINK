@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O2 -g -Wall  -O3 -DNDEBUG  -Wl,--no-undefined -shared -Wl,-soname,libfastvirtualscan.so -o /home/dink/DINK/ros/devel/lib/libfastvirtualscan.so CMakeFiles/fastvirtualscan.dir/FastVirtualScan/fastvirtualscan.cpp.o /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1 

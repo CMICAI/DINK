@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: points_downsampler
-Description: Description of points_downsampler
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp pcl_ros sensor_msgs pcl_conversions velodyne_pointcloud message_generation dink_for_config_msgs

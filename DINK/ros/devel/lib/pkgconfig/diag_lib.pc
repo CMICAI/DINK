@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: diag_lib
-Description: Description of diag_lib
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/common/libs/diagnostics_lib/diag_lib/include
-Libs: -L/home/dink/DINK/ros/devel/lib -ldiag_manager -ldiag_filter
-Requires: diag_msgs roscpp

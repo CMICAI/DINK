@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: fake_drivers
-Description: Description of fake_drivers
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp std_msgs sensor_msgs

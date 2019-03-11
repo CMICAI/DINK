@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: image_processor
-Description: Description of image_processor
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: sensor_msgs cv_bridge

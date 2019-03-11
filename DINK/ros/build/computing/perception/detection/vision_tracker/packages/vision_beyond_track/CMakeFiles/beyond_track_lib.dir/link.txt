@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/dink/DINK/ros/devel/lib/libbeyond_track_lib.a  CMakeFiles/beyond_track_lib.dir/lib/hungarian.cpp.o CMakeFiles/beyond_track_lib.dir/lib/clipper.cpp.o
-/usr/bin/ranlib /home/dink/DINK/ros/devel/lib/libbeyond_track_lib.a

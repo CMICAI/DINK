@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: hokuyo
-Description: Description of hokuyo
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp sensor_msgs

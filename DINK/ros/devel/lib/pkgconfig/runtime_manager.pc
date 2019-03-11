@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: runtime_manager
-Description: Description of runtime_manager
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: rospy std_msgs message_runtime

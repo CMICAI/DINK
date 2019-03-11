@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: fusion
-Description: Description of fusion
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/computing/perception/detection/lidar_tracker/libs/fusion/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lfusion
-Requires: roscpp dink_for_msgs cv_bridge

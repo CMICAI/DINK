@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: tablet_socket
-Description: Description of tablet_socket
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: tf tablet_socket_msgs dink_for_can_msgs dink_for_msgs gnss

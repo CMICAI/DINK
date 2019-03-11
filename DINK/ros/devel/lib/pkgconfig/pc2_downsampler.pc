@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: pc2_downsampler
-Description: Description of pc2_downsampler
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: op_simu
-Description: Description of op_simu
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/computing/planning/common/lib/openplanner/op_simu/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lop_simu
-Requires: op_utility op_planner

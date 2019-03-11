@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: dbw_mkz_msgs
-Description: Description of dbw_mkz_msgs
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/devel/include
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: message_runtime std_msgs geometry_msgs

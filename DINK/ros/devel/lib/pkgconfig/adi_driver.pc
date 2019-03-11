@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: adi_driver
-Description: Description of adi_driver
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/sensing/drivers/imu/packages/analog_devices/include
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp sensor_msgs

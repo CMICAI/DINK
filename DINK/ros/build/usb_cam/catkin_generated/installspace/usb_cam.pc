@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: usb_cam
-Description: Description of usb_cam
-Version: 0.3.6
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -lusb_cam
-Requires: 

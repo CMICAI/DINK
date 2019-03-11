@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: vision_dpm_ttic_detect
-Description: Description of vision_dpm_ttic_detect
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: cv_bridge roscpp sensor_msgs std_msgs dink_for_config_msgs dink_for_msgs libdpm_ttic

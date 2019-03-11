@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: op_global_planner
-Description: Description of op_global_planner
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/computing/planning/mission/packages/op_global_planner/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lop_global_planner
-Requires: geometry_msgs vector_map_msgs roscpp rospy std_msgs waypoint_follower op_utility op_planner op_simu op_ros_helpers dink_for_can_msgs

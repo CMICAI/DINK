@@ -1,6 +1,0 @@
-set(dink_for_camera_lidar_calibrator_SETUP_PY_VERSION "1.9.1")
-set(dink_for_camera_lidar_calibrator_SETUP_PY_SCRIPTS "")
-set(dink_for_camera_lidar_calibrator_SETUP_PY_PACKAGES "dink_for_camera_calibration")
-set(dink_for_camera_lidar_calibrator_SETUP_PY_PACKAGE_DIRS "src/dink_for_camera_calibration")
-set(dink_for_camera_lidar_calibrator_SETUP_PY_MODULES "")
-set(dink_for_camera_lidar_calibrator_SETUP_PY_MODULE_DIRS "")

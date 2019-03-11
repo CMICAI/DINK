@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: rosinterface
-Description: Description of rosinterface
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/util/packages/RobotSDK/rosinterface/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lrosinterface
-Requires: roscpp tf

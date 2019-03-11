@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: kvaser
-Description: Description of kvaser
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: std_msgs visualization_msgs dink_for_can_msgs

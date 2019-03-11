@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: lane_planner
-Description: Description of lane_planner
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -llane_planner
-Requires: roscpp std_msgs tablet_socket waypoint_follower vector_map gnss dink_for_msgs

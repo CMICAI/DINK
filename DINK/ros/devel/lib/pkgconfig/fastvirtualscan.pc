@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: fastvirtualscan
-Description: Description of fastvirtualscan
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/util/packages/RobotSDK/fastvirtualscan/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lfastvirtualscan
-Requires: roscpp sensor_msgs

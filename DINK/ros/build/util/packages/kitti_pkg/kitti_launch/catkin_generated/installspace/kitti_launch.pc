@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: kitti_launch
-Description: Description of kitti_launch
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: kitti_box_publisher

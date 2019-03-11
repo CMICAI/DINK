@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: velodyne_driver
-Description: Description of velodyne_driver
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -lvelodyne_input
-Requires: diagnostic_updater dynamic_reconfigure nodelet roscpp tf velodyne_msgs

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: dink_for_msgs
-Description: Description of dink_for_msgs
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: message_runtime std_msgs geometry_msgs sensor_msgs jsk_recognition_msgs

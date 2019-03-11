@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: obj_fusion
-Description: Description of obj_fusion
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp dink_for_msgs tf jsk_recognition_msgs vector_map vector_map_server

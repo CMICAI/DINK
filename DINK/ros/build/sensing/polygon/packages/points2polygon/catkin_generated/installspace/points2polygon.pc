@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: points2polygon
-Description: Description of points2polygon
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp sensor_msgs dink_for_config_msgs pcl_conversions

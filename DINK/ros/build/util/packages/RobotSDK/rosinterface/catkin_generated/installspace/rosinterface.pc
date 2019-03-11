@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: rosinterface
-Description: Description of rosinterface
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -lrosinterface
-Requires: roscpp tf

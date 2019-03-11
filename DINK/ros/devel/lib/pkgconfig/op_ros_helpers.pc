@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: op_ros_helpers
-Description: Description of op_ros_helpers
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/computing/planning/common/lib/openplanner/op_ros_helpers/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lop_ros_helpers
-Requires: roscpp geometry_msgs dink_for_msgs map_file pcl_conversions pcl_ros sensor_msgs tf jsk_recognition_msgs op_utility op_planner op_simu waypoint_follower vector_map_msgs

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: dink_for_connector
-Description: Description of dink_for_connector
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: 

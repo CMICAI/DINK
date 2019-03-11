@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: can_msgs
-Description: Description of can_msgs
-Version: 0.7.6
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: message_runtime std_msgs

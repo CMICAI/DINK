@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libndt_tku.so -o /home/dink/DINK/ros/devel/lib/libndt_tku.so CMakeFiles/ndt_tku.dir/src/algebra.cpp.o CMakeFiles/ndt_tku.dir/src/newton.cpp.o CMakeFiles/ndt_tku.dir/src/manage_ND.cpp.o -lglut -lXmu -lXi 

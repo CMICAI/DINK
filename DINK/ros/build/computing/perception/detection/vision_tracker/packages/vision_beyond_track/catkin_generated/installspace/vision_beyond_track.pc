@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: vision_beyond_track
-Description: Description of vision_beyond_track
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs dink_for_msgs tf

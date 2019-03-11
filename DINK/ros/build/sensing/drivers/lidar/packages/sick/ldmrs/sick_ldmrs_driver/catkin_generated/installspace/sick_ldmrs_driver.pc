@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: sick_ldmrs_driver
-Description: Description of sick_ldmrs_driver
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include -I/usr/include
-Libs: -L/home/dink/DINK/ros/install/lib /usr/lib/x86_64-linux-gnu/libboost_system.so
-Requires: roscpp sensor_msgs diagnostic_updater dynamic_reconfigure pcl_conversions sick_ldmrs_msgs

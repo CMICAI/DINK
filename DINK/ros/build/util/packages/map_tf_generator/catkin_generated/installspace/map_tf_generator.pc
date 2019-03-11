@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: map_tf_generator
-Description: Description of map_tf_generator
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: lidar_pf_track
-Description: Description of lidar_pf_track
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp dink_for_msgs

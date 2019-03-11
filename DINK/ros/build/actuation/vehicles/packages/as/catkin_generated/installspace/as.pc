@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: as
-Description: Description of as
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp std_msgs geometry_msgs module_comm_msgs dbw_mkz_msgs

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: fake_dink_for_nodes
-Description: Description of fake_dink_for_nodes
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs diag_lib

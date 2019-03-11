@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: moveit_can_pkg
-Description: Description of moveit_can_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp std_msgs

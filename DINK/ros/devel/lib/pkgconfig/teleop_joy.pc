@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: teleop_joy
-Description: Description of teleop_joy
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: 

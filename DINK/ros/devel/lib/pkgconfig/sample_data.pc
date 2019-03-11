@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: sample_data
-Description: Description of sample_data
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp gnss std_msgs visualization_msgs

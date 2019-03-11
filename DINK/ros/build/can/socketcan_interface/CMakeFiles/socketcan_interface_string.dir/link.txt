@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libsocketcan_interface_string.so -o /home/dink/DINK/ros/devel/lib/libsocketcan_interface_string.so CMakeFiles/socketcan_interface_string.dir/src/string.cpp.o 

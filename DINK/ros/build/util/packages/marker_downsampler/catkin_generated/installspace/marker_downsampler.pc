@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: marker_downsampler
-Description: Description of marker_downsampler
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: 

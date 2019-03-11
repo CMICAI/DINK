@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O2 -Wall  -O3 -DNDEBUG  -Wl,--no-undefined -shared -Wl,-soname,libgpu_euclidean_clustering.so -o /home/dink/DINK/ros/devel/lib/libgpu_euclidean_clustering.so CMakeFiles/gpu_euclidean_clustering.dir/nodes/lidar_euclidean_cluster_detect/gpu_euclidean_clustering_generated_gpu_euclidean_clustering.cu.o /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 

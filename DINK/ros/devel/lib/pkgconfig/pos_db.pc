@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: pos_db
-Description: Description of pos_db
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp gnss jsk_recognition_msgs tf dink_for_msgs

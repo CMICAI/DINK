@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: lidar_svm_detect
-Description: Description of lidar_svm_detect
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp sensor_msgs dink_for_msgs tf jsk_recognition_msgs jsk_rviz_plugins

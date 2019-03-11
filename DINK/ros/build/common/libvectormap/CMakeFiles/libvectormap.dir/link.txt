@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/dink/DINK/ros/devel/lib/liblibvectormap.a  CMakeFiles/libvectormap.dir/src/vector_map.cpp.o
-/usr/bin/ranlib /home/dink/DINK/ros/devel/lib/liblibvectormap.a

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: lidar_euclidean_cluster_detect
-Description: Description of lidar_euclidean_cluster_detect
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: pcl_ros roscpp geometry_msgs std_msgs sensor_msgs dink_for_msgs tf jsk_recognition_msgs jsk_rviz_plugins vector_map_server grid_map_ros grid_map_cv grid_map_msgs

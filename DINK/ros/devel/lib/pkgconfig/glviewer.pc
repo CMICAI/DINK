@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: glviewer
-Description: Description of glviewer
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/util/packages/RobotSDK/glviewer/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lglviewer
-Requires: roscpp

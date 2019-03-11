@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: trafficlight_recognizer
-Description: Description of trafficlight_recognizer
-Version: 1.9.1
-Cflags: -I/usr/include/eigen3
-Libs: -L/home/dink/DINK/ros/devel/lib -llibcontext
-Requires: dink_for_msgs cmake_modules cv_bridge geometry_msgs libvectormap roscpp sensor_msgs std_msgs tf vector_map vector_map_server visualization_msgs waypoint_follower

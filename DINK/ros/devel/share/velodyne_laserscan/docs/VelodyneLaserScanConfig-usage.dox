@@ -1,8 +1,0 @@
-\subsubsection usage Usage
-\verbatim
-<node name="velodyne_laserscan" pkg="velodyne_laserscan" type="velodyne_laserscan">
-  <param name="ring" type="int" value="-1" />
-  <param name="resolution" type="double" value="0.007" />
-</node>
-\endverbatim
-

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: fastvirtualscan
-Description: Description of fastvirtualscan
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -lfastvirtualscan
-Requires: roscpp sensor_msgs

@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: op_utility
-Description: Description of op_utility
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/install/include
-Libs: -L/home/dink/DINK/ros/install/lib -lop_utility
-Requires: vector_map_msgs vector_map_server

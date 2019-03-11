@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: viewers
-Description: Description of viewers
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp sensor_msgs std_msgs dink_for_msgs cv_bridge image_transport

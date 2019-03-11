@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: op_planner
-Description: Description of op_planner
-Version: 1.9.1
-Cflags: -I/home/dink/DINK/ros/src/computing/planning/common/lib/openplanner/op_planner/include -I/usr/include
-Libs: -L/home/dink/DINK/ros/devel/lib -lop_planner /usr/lib/x86_64-linux-gnu/libtinyxml.so
-Requires: op_utility

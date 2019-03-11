@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: lidar_naive_l_shape_detect
-Description: Description of lidar_naive_l_shape_detect
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp pcl_ros dink_for_msgs tf

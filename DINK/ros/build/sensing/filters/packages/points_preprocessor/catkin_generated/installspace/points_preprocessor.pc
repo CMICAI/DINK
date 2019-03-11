@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/install
-
-Name: points_preprocessor
-Description: Description of points_preprocessor
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/install/lib 
-Requires: roscpp std_msgs sensor_msgs pcl_ros pcl_conversions cv_bridge velodyne_pointcloud dink_for_config_msgs tf

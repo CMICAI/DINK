@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: dink_for_bag_tools
-Description: Description of dink_for_bag_tools
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: rosbag nmea_msgs roslib

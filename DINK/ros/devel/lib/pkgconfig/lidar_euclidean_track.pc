@@ -1,8 +1,0 @@
-prefix=/home/dink/DINK/ros/devel
-
-Name: lidar_euclidean_track
-Description: Description of lidar_euclidean_track
-Version: 1.9.1
-Cflags: 
-Libs: -L/home/dink/DINK/ros/devel/lib 
-Requires: roscpp geometry_msgs dink_for_msgs jsk_recognition_msgs
