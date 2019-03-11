@@ -1,0 +1,1 @@
+python3 pub_point_cloud_npy.py
