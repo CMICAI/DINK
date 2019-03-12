@@ -7,7 +7,7 @@ DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法
 
 运行演示 http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
 
-安装演示 http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
+安装演示 http://hulahula.fun/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
 
 更多内容请访问DINK官网 http://hulahula.fun
 
@@ -33,7 +33,7 @@ DINK is an point cloud framework for in-depth learning autopilot. It combines SO
 
 run demonstration http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
 
-install demonstration http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
+install demonstration http://hulahula.fun/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
 
 More content display on http://hulahula.fun
 
