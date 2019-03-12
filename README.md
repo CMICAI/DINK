@@ -1,5 +1,5 @@
 # DINK V0.2
-点云深度学习自动驾驶框架|Point Cloud DeepLearning Autonomous Driving Framework
+🚕点云深度学习自动驾驶框架|Point Cloud DeepLearning Autonomous Driving Framework🚕
 
 ![DINK](DINK.gif)
 
