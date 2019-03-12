@@ -7,7 +7,7 @@ DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法
 
 DINK is an point cloud framework for in-depth learning autopilot. It combines SOTA in-depth learning algorithm with traditional algorithm and runs simulation with one key.More content display on http://hulahula.fun
 
-# [快速使用| Quick Start](https://github.com/FPAI/DINK/wiki/HOME)
+# [DINK下载安装|DINK INSTALL](https://github.com/FPAI/DINK/wiki/HOME)
 
 ***
 
