@@ -7,7 +7,7 @@ DINK是一个开放可实践应用深度学习自动驾驶框架，兼并SOTA深
 
 DINK is an open and practical framework for in-depth learning autopilot. It combines SOTA in-depth learning algorithm with traditional algorithm and runs simulation with one key.
 
-[快速使用| Quick Start](https://github.com/FPAI/DINK/wiki/HOME)
+# [快速使用| Quick Start](https://github.com/FPAI/DINK/wiki/HOME)
 
 ***
 
@@ -15,7 +15,7 @@ DINK is an open and practical framework for in-depth learning autopilot. It comb
 
 1.兼并SOTA深度学习算法与传统算法，一键运行模拟。
 
-2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
+2.DINK中人工智能纯Tensorflow实现。
   
 3.全流程模块协同，CUDA加速。
 
@@ -29,7 +29,7 @@ DINK is an open and practical framework for in-depth learning autopilot. It comb
 
 1.Integrating SOTA deep learning algorithm and traditional algorithm, one-click operation simulation.
 
-2.In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
+2.In DINK, artificial intelligence is made of pure Tensorflow.
   
 3.Full process module collaboration, CUDA acceleration
 
@@ -41,16 +41,11 @@ DINK is an open and practical framework for in-depth learning autopilot. It comb
 
 ***
 
-# [快速使用| Quick Start](https://github.com/FPAI/DINK/wiki/HOME)
-
-
-***
-
-[![太平洋AI](img/fpai.png)](http://fp-ai.com)
+[![太平洋AI](img/fpai.jpg)](http://fp-ai.com)
 
 太平洋AI，TensorFlow源码贡献者顶尖人工智能团队，底层技术驱动上层应用，垂直领域规模化落地。底层框架降低人工智能开发门槛，帮助开发者应用落地，推动中国人工智能发展。
 
-First Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
+Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
 
 DINK官网|Official website： http://hulahula.fun
 
