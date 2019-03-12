@@ -3,7 +3,7 @@
 
 ![DINK](DINK.gif)
 
-DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法与传统算法，一键运行模拟运行。
+DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法与传统算法，一键运行并模拟,一键训练评估深度学习模型。
 
 DINK is an point cloud framework for in-depth learning autopilot. It combines SOTA in-depth learning algorithm with traditional algorithm and runs simulation with one key.
 
