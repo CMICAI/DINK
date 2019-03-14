@@ -5,11 +5,12 @@
 
 DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法与传统算法，一键运行并模拟,一键训练评估深度学习模型。
 
-运行演示 http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
+运行演示 http://fp-ai.com/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
 
-安装演示 http://hulahula.fun/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
+安装演示 http://fp-ai.com/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
 
-更多内容请访问DINK官网 http://hulahula.fun
+更多内容请访问DINK官网 http://fp-ai.com
+
 
 # [DINK下载安装|DINK INSTALL](https://github.com/FPAI/DINK/wiki/HOME)
 
@@ -31,11 +32,11 @@ DINK是一个点云深度学习自动驾驶框架，兼并SOTA深度学习算法
 
 DINK is an point cloud framework for in-depth learning autopilot. It combines SOTA in-depth learning algorithm with traditional algorithm and runs simulation with one key.
 
-run demonstration http://hulahula.fun/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
+run demonstration http://fp-ai.com/video_details.html?id=7f39f8317fbdb1988ef4c628eba02591
 
-install demonstration http://hulahula.fun/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
+install demonstration http://fp-ai.com/video_details.html?id=072b030ba126b2f4b2374f342be9ed44
 
-More content display on http://hulahula.fun
+More content display on http://fp-ai.com
 
 # DINK 3 main features:
 
@@ -59,9 +60,7 @@ More content display on http://hulahula.fun
 
 Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
 
-DINK官网|Official website： http://hulahula.fun
-
-公司官网|Official website： http://fp-ai.com
+官网|Official website： http://fp-ai.com
 
 联系电话|Contact number： 400-153-0988
 
