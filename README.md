@@ -56,9 +56,9 @@ More content display on http://fp-ai.com
 
 [![太平洋AI](img/fpai.jpg)](http://fp-ai.com)
 
-太平洋AI，TensorFlow源码贡献者顶尖人工智能团队，底层技术驱动上层应用，垂直领域规模化落地。底层框架降低人工智能开发门槛，帮助开发者应用落地，推动中国人工智能发展。
+太平洋AI，TensorFlow源码贡献者人工智能团队，底层技术驱动上层应用，垂直领域规模化落地。底层框架降低人工智能开发门槛，帮助开发者应用落地，推动中国人工智能发展。
 
-Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
+Pacific AI, the AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
 
 官网|Official website： http://fp-ai.com
 
