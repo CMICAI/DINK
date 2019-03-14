@@ -1,1 +1,0 @@
-python3 pub_point_cloud_npy.py&roslaunch lidar_euclidean_cluster_detect lidar_euclidean_cluster_detect_points_raw.launch
