@@ -16,7 +16,7 @@ else
 fi
 echo "Shared directory: ${HOST_DIR}"
 
-xdg-open http://hulahula.fun/theme.html?keyword=DINK
+xdg-open http://fp-ai.com/
 
 sudo nvidia-docker run \
     -it --rm \
@@ -28,7 +28,7 @@ sudo nvidia-docker run \
     -u dink \
     --privileged -v /dev/bus/usb:/dev/bus/usb \
     --net=host \
-registry.cn-hangzhou.aliyuncs.com/dink_190123/dink0.2
+registry.cn-hangzhou.aliyuncs.com/dink_framework/dink0.22
 
 
 
