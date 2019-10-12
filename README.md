@@ -42,12 +42,10 @@ DINK is a deep learning point cloud framework. It combines SOTA in-depth learnin
 
 ***
 
-太平洋AI，底层技术驱动上层应用，垂直领域规模化落地。
+港心时代（原太平洋AI），底层技术驱动上层应用，垂直领域规模化落地。
 
-Pacific AI, the AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
+Harbour Heart Era（previous Pacific AI), the AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
 
-官网|Official website： http://fp-ai.com
+官网|Official website： http://containersai.com/
 
-联系电话|Contact number： 400-153-0988
-
-商务邮箱|Business email： info@fp-ai.com
+商务邮箱|Business email： 01409290@cimc.com
