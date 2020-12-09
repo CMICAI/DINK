@@ -1,11 +1,9 @@
 # DINK V0.2
-🚕点云深度学习框架|Point Cloud Deep learning Framework🚕
-
-![DINK](DINK.gif)
+点云深度学习框架|Point Cloud Deep learning Framework
 
 DINK是一个点云深度学习框架，兼并SOTA深度学习算法与传统算法，一键运行并模拟,一键训练评估深度学习模型。
 
-# [DINK下载安装|DINK INSTALL](https://github.com/FPAI/DINK/wiki/HOME)
+# [DINK下载安装|DINK INSTALL](https://github.com/CMICAI/DINK/wiki/HOME)
 
 # DINK三大特点：
 
@@ -41,11 +39,11 @@ DINK is a deep learning point cloud framework. It combines SOTA in-depth learnin
 2.Download and run DINK mirror.
 
 ***
+中集飞瞳|CMICAI
+集装箱箱况智能管家|Container condition housekeeper
 
-港心时代（原太平洋AI），底层技术驱动上层应用，垂直领域规模化落地。
+官网|Official website： http://cimcai.com/
 
-Harbour Heart Era（previous Pacific AI), the AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. 
+商务邮箱|Business email： cooperate@cimcai.com
 
-官网|Official website： http://containersai.com/
-
-商务邮箱|Business email： 01409290@cimc.com
+联系电话|phone: 400-880-5717
