@@ -23,7 +23,7 @@ DINK是一个点云深度学习框架，兼并SOTA深度学习算法与传统算
 ***
 
 DINK is a deep learning point cloud framework. It combines SOTA in-depth learning algorithm with traditional algorithm and runs simulation with one key.
-
+```
 
 ### DINK 3 main features:
 ```bash
