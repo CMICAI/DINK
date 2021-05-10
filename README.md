@@ -42,7 +42,7 @@ DINK is a deep learning point cloud framework. It combines SOTA in-depth learnin
 中集飞瞳|CMICAI
 集装箱箱况智能管家|Container condition housekeeper
 
-官网|Official website： http://cimcai.com/
+官网|Official website： http://www.cimcai.com/
 
 商务邮箱|Business email： cooperate@cimcai.com
 
